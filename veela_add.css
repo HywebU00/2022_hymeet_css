@@ -1,0 +1,50 @@
+.dtLwjJ {
+  background: #eff0f4;
+  box-shadow: -3px -3px 8px #FFFFFF, 3px 3px 8px rgba(0, 0, 0, 0.15)!important;
+}
+
+.sc-htpNat.dtLwjJ {
+  border-radius: 20px;
+}
+
+.audio-preview-content {
+  border-radius: 20px;
+  overflow: hidden
+}
+
+.audio-preview-entry-text {
+  background: transparent;
+  line-height: 48px
+}
+
+.audio-preview-test-button {
+  box-shadow: -3px -3px 4px rgba(255, 255, 255, 0.8), 2px 2px 4px rgba(0, 0, 0, 0.15)!important;
+  border-radius: 15px!important;
+  border: 0px!important;
+}
+
+.jitsi-icon.metr>svg {
+  fill: rgba(37, 45, 66, 0.08);
+}
+
+.metr-l-0 rect:first-child {
+  fill: rgba(91, 95, 151, 1);
+}
+
+.video-preview-container {
+  border-radius: 20px;
+}
+
+.video-preview-overlay,
+.video-preview-video {
+  border-radius: 15px;
+  overflow: hidden
+}
+
+.video-preview-entry--selected {
+  border: 0;
+}
+
+.overflow-menu-item {
+  color: #252D42;
+}
